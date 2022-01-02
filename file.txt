@@ -1,4 +1,9 @@
 git uno
 due
 tre aggiornamenti
+<<<<<<< HEAD
 aggiornamento dal main
+=======
+
+quarto agioramento
+
